@@ -1,4 +1,4 @@
-# ML-post-call-anaalysis
+# ML-post-call-analysis
 It shows the analysis of post call using generative AI
 
 ## Reference 
